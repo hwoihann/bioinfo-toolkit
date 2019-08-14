@@ -1,6 +1,9 @@
+# 我的生物学学习 awesome list
+
+
 ## Mechanisms
 https://www.mechanobio.info
-
+[bioninja](https://ib.bioninja.com.au/additional-resources-2/summary-pdfs.html)
 
 
 ## Protocols
@@ -16,3 +19,23 @@ https://www.mechanobio.info
 https://mcmanuslab.ucsf.edu/protocols/Lentiviral_Transfection_Protocol.pdf
 
 ### Tools for protocol writing
+
+
+
+# blog and magazines
+
+中文
+1. https://geneonline.news
+
+
+英文
+1. https://www.the-scientist.com/
+
+
+
+# courses
+
+## 技能树相关
+https://cloud.tencent.com/developer/column/2086
+
+##
