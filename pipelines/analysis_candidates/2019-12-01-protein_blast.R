@@ -60,7 +60,6 @@ fap_aa_seq <- BStringSet(fap_info$SEQUENCE)
 names(fap_aa_seq) <- fap_info$symbol_Chlamy
 
 
-
 ##
 #Try this if time allows
 #cl1 <- predict(chlamy_aa_bl, x1[1,], custom_format = "qseqid sseqid evalue bitscore pident qlen qstart qend")
